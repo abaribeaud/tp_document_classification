@@ -3,3 +3,4 @@ opencv-python
 pyspellchecker
 scikit-learn
 pandas
+pytesseract
